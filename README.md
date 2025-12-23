@@ -1,3 +1,4 @@
+![360_F_338052826_wxLVTscxLlDJHwg8PARkjxbntA6eaKzN](https://github.com/user-attachments/assets/7401116a-e73e-446d-8a7b-158df7c7b822)
 # Lab 2 – Version control
 
 This repository contains a simple HTML page created as part of **Lab 1&2 at ITI**.  
